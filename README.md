@@ -1,4 +1,4 @@
-# This is my test project
+# This is my test project.
 
 ```
 Using this technology stacks
